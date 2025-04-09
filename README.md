@@ -1,44 +1,17 @@
 # Algorithms Design Course
 
-This repository contains Python implementations of various algorithms for the **Algorithm Design Course**.
+This repository contains algorithms designed for students learning fundamental programming concepts. The focus is on simplicity and clarity to help students understand the logic behind each algorithm.
 
-## 📁 Project Structure
+## Contents
 
-- `binary_search/`: Contains the implementation of binary search.
-- `venv/`: Virtual environment (excluded from Git).
+- **Binary Search**
+  - Implementation of the binary search algorithm.
+  - Example usage included for educational purposes.
 
-## 🚀 How to Run
+## About
+
+This repository was created and maintained by **Ariya Arani**, focusing on helping students grasp the basics of algorithm design with hands-on examples.
+
+## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/ariyaarani7/algorithms-design-course.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd algorithms-design-course
-   ```
-3. (Optional) Create a virtual environment:
-   ```bash
-   python -m venv venv
-   .\venv\Scripts\activate  # on Windows
-   ```
-4. Run your code:
-   ```bash
-   python binary_search/src/binary_search_code.py
-   ```
-
-## 📌 Note
-
-The `venv/` folder is ignored in Git via `.gitignore`.
-
----
-
-### ✏️ License
-
-Feel free to use, modify, or share for educational purposes.
-
----
-
-### Author
-
-Developed by **Ariya Arani**
